@@ -3,7 +3,7 @@
 - 🎓 2nd Year Computer Science student @ the University of Cyprus.
 - 📚 The course I am taking focuses on building foundational knowledge and technical skills.
      For ex. covering areas like algorithms, data structures, computer organization, and programming.
-- 🎯 Goal is to build a strong foundation in computer science and broaden my skills in order to be able to take on more advanced technical challenges in the future.
+- 🎯 Goal is to build a strong foundation in computer science and broaden my skills in order to be able to take on more advanced technical challenges down the road.
 - 📬 feel free to reach me via email @ [alexandrosgeorgiou5@gmail.com](mailto:alexandrosgeorgiou5@gmail.com)
 
 <h2>Languages</h2>

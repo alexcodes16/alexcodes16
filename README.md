@@ -15,7 +15,7 @@
 <h2>Tools</h2>
 <ul>
     <li><img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></li>
-    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Eclipse_Logo.svg/1024px-Eclipse_Logo.svg.png" alt="Eclipse" width="40" height="40"/></li>
+    <li><img src="https://github.com/devicons/devicon/raw/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/></li>
 </ul>
 
 

@@ -51,7 +51,3 @@ A Python-based web fuzzing project focused on testing web applications through c
 ## 🌍 Languages
 - Greek
 - English
-
-## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- Email: your-email@example.com

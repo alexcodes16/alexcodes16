@@ -16,7 +16,7 @@ I am a Computer Science student at the University of Cyprus with a growing focus
 - 🛠️ I like building tools that test, break, and improve software systems
 
 ## 📌 Featured Project
-### [MiniGreyWebFuzz](https://github.com/YOUR-USERNAME/YOUR-REPO)
+### [MiniGreyWebFuzz](https://github.com/alexcodes16/MiniGreyWebFuzz)
 A Python-based web fuzzing project focused on testing web applications through crawling, mutation, and automated request execution.
 
 **What it does:**

@@ -11,7 +11,6 @@ I am a Computer Science student at the University of Cyprus with a growing focus
 - 🎓 BSc in Computer Science at the University of Cyprus
 - 🔐 Interested in cybersecurity, fuzzing, and web application security
 - 🧠 Strong interest in problem-solving and technical analysis
-- 🛠️ I like building tools that test, break, and improve software systems
 
 ## 📌 Featured Project
 ### [MiniGreyWebFuzz](https://github.com/alexcodes16/MiniGreyWebFuzz)

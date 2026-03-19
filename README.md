@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Alexandros 👋</h1>
-<h3 align="center">Computer Science Student | Aspiring Cybersecurity Engineer</h3>
+<h3 align="center">Computer Science Student </h3>
 
-<p align="center">
-Focused on cybersecurity, web security, and practical security tooling.
 </p>
 
 ---

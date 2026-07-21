@@ -12,7 +12,15 @@ I am a Computer Science student at the University of Cyprus with a growing focus
 - 🔐 Interested in cybersecurity, fuzzing, and web application security
 - 🧠 Strong interest in problem-solving and technical analysis
 
-## 📌 Featured Project
+## 📌 Featured Projects
+### [TaskFlow](https://github.com/alexcodes16/TaskApp)
+A native iOS task management application built with SwiftUI and SwiftData.
+
+**What it does:**
+- Manages tasks with custom titles, descriptions, and due dates using local-first persistence
+- Organizes items through priorities and categories with filtering and search capabilities
+- Provides interactive task handling via seamless swipe actions
+
 ### [MiniGreyWebFuzz](https://github.com/alexcodes16/MiniGreyWebFuzz)
 A Python-based web fuzzing project focused on testing web applications through crawling, mutation, and automated request execution.
 
@@ -23,6 +31,7 @@ A Python-based web fuzzing project focused on testing web applications through c
 - Helps explore security weaknesses and unexpected responses
 
 ### 💻 Languages
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -32,6 +41,7 @@ A Python-based web fuzzing project focused on testing web applications through c
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS_Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)

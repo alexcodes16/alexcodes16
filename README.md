@@ -13,6 +13,16 @@ I am a Computer Science student at the University of Cyprus with a growing focus
 - 🧠 Strong interest in problem-solving and technical analysis
 
 ## 📌 Featured Projects
+### [Kypra](https://github.com/alexcodes16/kypra)
+
+A responsive account dashboard built with React, TypeScript, HTML and CSS, using fictional banking data.
+
+**What it does:**
+
+- Displays account balances and monthly income and spending reports
+- Supports transaction search, filtering and CSV export
+- Validates demo transfers and manages budgets and savings goals
+- Provides English and Greek interfaces, with changes saved in local storage
 ### [TaskFlow](https://github.com/alexcodes16/TaskApp)
 A native iOS task management application built with SwiftUI and SwiftData.
 
